@@ -10,4 +10,4 @@ define the room (rows & seats per row)
 3. Statistics       - Informations for the cinema owners
 0. Exit             - ends the program
 
-<img src="https://github.com/FOswald86/JetbrainAcademy_CinemaRoomManager/blob/main/CinemaRoomManager.gif" width="800" height="500" />
+<img src="https://github.com/FOswald86/JetbrainAcademy_CinemaRoomManager/blob/main/CinemaRoomManager.gif" width="800" height="500" />  
